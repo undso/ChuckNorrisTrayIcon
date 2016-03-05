@@ -5,4 +5,4 @@ jdk:
   - openjdk7
 os:
   - linux
-  - osx
+#  - osx
